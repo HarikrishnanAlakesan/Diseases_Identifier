@@ -1,0 +1,43 @@
+Symptom,Disease,Therapist
+Fever,Flu,General Practitioner
+Cough,Common Cold,General Practitioner
+Shortness of Breath,Asthma,Pulmonologist
+Headache,Migraine,Neurologist
+Fatigue,Chronic Fatigue Syndrome,Rheumatologist
+Chest Pain,Heart Attack,Cardiologist
+Nausea,Gastroenteritis,Gastroenterologist
+Joint Pain,Rheumatoid Arthritis,Rheumatologist
+Muscle Weakness,Muscular Dystrophy,Physical Therapist
+Difficulty Breathing,Chronic Obstructive Pulmonary Disease (COPD),Pulmonologist
+Dizziness,Vertigo,"Ear, Nose, and Throat (ENT) Specialist"
+Sore Throat,Strep Throat,General Practitioner
+Back Pain,Herniated Disc,Orthopedic Specialist
+Abdominal Pain,Appendicitis,General Surgeon
+Frequent Urination,Urinary Tract Infection (UTI),Urologist
+Constipation,Irritable Bowel Syndrome (IBS),Gastroenterologist
+Blurred Vision,Diabetes,Endocrinologist
+Memory Loss,Alzheimer's Disease,Neurologist
+Skin Rash,Eczema,Dermatologist
+Chest Tightness,Anxiety,Psychiatrist
+Frequent Headaches,Tension Headaches,Neurologist
+Insomnia,Sleep Apnea,Sleep Specialist
+Rapid Heartbeat,Atrial Fibrillation,Cardiologist
+Bloating,Irritable Bowel Syndrome (IBS),Gastroenterologist
+Frequent Nosebleeds,Nasal Polyps,"Ear, Nose, and Throat (ENT) Specialist"
+Unexplained Weight Loss,Hyperthyroidism,Endocrinologist
+Joint Swelling,Osteoarthritis,Rheumatologist
+Hair Loss,Alopecia,Dermatologist
+Frequent Infections,Immunodeficiency Disorders,Immunologist
+Numbness or Tingling,Peripheral Neuropathy,Neurologist
+Throat Clearing,Laryngopharyngeal Reflux (LPR),Gastroenterologist
+Chest Discomfort,Angina,Cardiologist
+Sensitivity to Light,Migraine,Neurologist
+Painful Periods,Endometriosis,Gynecologist
+Loss of Appetite,Depression,Psychiatrist
+Difficulty Swallowing,Esophageal Stricture,Gastroenterologist
+Tremors,Parkinson's Disease,Neurologist
+Yellowing of Skin,Jaundice,Hepatologist
+Frequent Thirst,Diabetes,Endocrinologist
+Calf Pain with Walking,Peripheral Artery Disease (PAD),Vascular Specialist
+Difficulty Concentrating,Attention Deficit Hyperactivity Disorder (ADHD),Psychiatrist
+Cold Hands and Feet,Raynaud's Disease,Rheumatologist
